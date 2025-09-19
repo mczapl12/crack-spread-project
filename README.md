@@ -12,7 +12,7 @@ A quick proxy for gross margin is the **3–2–1 crack** (all in $/bbl):
 ## What’s inside
 
 - Build the crack series from free Yahoo Finance tickers  
-  (`CL=F` crude $/bbl, `RB=F` & `HO=F` are $/gal → ×42 to $/bbl, `CRAK` refiners ETF)
+  (`CL=F` crude $/bbl, `RB=F` & `HO=F` are $/gal → ×42  to  $/bbl, `CRAK` refiners ETF)
 - Z-score regimes (rich / neutral / cheap) with event markers (COVID, Russia–Ukraine)
 - Seasonality check (driving season: May–Sep)
 - Tiny *toy rule* to visualize behavior in different regimes (educational only)
