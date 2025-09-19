@@ -4,9 +4,6 @@
 Refineries buy **crude oil** and sell **gasoline + diesel**.  
 A quick proxy for gross margin is the **3–2–1 crack** (all in $/bbl):
 
-\[
-\text{crack} = 2 \times \text{gasoline} + 1 \times \text{diesel} - 3 \times \text{crude}
-\]
 
 **Live HTML (GitHub Pages):** https://mczapl12.github.io/crack-spread-project/
 
