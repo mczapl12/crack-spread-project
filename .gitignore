@@ -1,0 +1,7 @@
+# outputs & local stuff
+data/
+reports/
+.env
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
